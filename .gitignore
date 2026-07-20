@@ -1,0 +1,9 @@
+# Ignore ROS 2 build artifact directories
+build/
+install/
+log/
+# Ignore local system files
+.install/
+ls
+src/my_bot/
+git_ros2push
