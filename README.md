@@ -19,9 +19,9 @@ The core idea: bridge ROS2 (simulation, sensor topics, control) with the standar
 
 ## Demo
 
-| TF Tree                       | Robot in RViz2                          | LiDAR in Gazebo                         |
-| ----------------------------- | --------------------------------------- | --------------------------------------- |
-| ![TF tree](media/tf_tree.png) | ![RViz view](media/bot_design_rviz.png) | ![Gazebo LiDAR](media/gazebo_lidar.png) |
+| TF Tree                       | Robot in RViz2                           | LiDAR in Gazebo                        |
+| ----------------------------- | ---------------------------------------- | -------------------------------------- |
+| ![TF tree](media/tf_tree.png) | ![RViz view](media/bot_design4_rviz.png) | ![Gazebo LiDAR](media/lidar_rviz2.png) |
 
 | LiDAR scan visualized in RViz2       |
 | ------------------------------------ |
