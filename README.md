@@ -147,7 +147,6 @@ rviz2
 
 - Reward function currently penalizes stagnation but does not hard-terminate stuck episodes (commented out) — worth revisiting for training stability
 - Single LiDAR-based observation only; no odometry/IMU fusion in the observation space yet
-- [ADD: anything else you know is incomplete — e.g. domain randomization, curriculum learning, sim-to-real gap, multi-goal generalization]
 
 ## Acknowledgments
 
