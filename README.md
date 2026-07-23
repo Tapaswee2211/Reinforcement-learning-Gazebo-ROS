@@ -141,7 +141,7 @@ rviz2
 
 ---
 
-![Demo](./media/demo_video.mp4)
+![Demo](./media/demo)
 
 ## Limitations & Future Work
 
