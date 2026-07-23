@@ -139,7 +139,9 @@ rviz2
 
 ## Results
 
-[ADD: success rate, average reward curve, episode length over training, or a short GIF/video of a trained policy navigating to a goal. Even a rough number like "reached goal in 8/10 evaluation runs after 500k timesteps" makes this section much stronger than leaving it blank.]
+---
+
+![Demo](./media/demo_video.mp4)
 
 ## Limitations & Future Work
 
