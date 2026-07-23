@@ -152,7 +152,3 @@ rviz2
 - [Stable-Baselines3](https://stable-baselines3.readthedocs.io/)
 - [Gymnasium](https://gymnasium.farama.org/)
 - ROS2 / Gazebo simulation stack
-
-## License
-
-[ADD: MIT / Apache-2.0 / etc.]
